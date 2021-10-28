@@ -3,3 +3,20 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.title_text {
+    font-size: 2.7rem;
+    padding: 30px 0;
+    text-align: center;
+}
+
+.image_container {
+    width: 400px;
+    margin: 0 auto;
+    box-shadow: 0 0 10px black;
+}
+
+.image {
+    width: 100%;
+    display: block;
+}
